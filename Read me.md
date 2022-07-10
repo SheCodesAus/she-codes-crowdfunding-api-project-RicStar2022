@@ -72,10 +72,10 @@ Please visit [my project via Heroku](https://gentle-harbor-58349.herokuapp.com/)
 Insomnia is used for testing and validating results of RESTful applications. Screen shots below shows the application using various GET and POST methods:
 
 GET request:
-![Screenshot of GET request](images/Insomnia - GET.png)
+![Screenshot of GET request](images/Insomnia_GET.png)
 
 POST request:
-![Screenshot of POST request](images/Insomnia - POST.png)
+![Screenshot of POST request](images/Insomnia_POST.png)
 
 POST Token request:
-![Screenshot of API token request](images/Insomnia - API Token.png)
+![Screenshot of API token request](crowdfunding/crowdfunding/images/Insomnia_API_Token.png)
