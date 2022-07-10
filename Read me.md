@@ -78,4 +78,4 @@ POST request:
 ![Screenshot of POST request](images/Insomnia_POST.png)
 
 POST Token request:
-![Screenshot of API token request](crowdfunding/crowdfunding/images/Insomnia_API_Token.png)
+![Screenshot of API token request](images/Insomnia_API_Token.png)
